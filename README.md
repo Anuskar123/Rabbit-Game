@@ -1,4 +1,4 @@
-
+## Rabbit Run 
 Rabbit Game is a browser-based maze game where the player controls a rabbit navigating through randomly generated mazes to collect points while avoiding enemies. The game supports infinite levels, with difficulty increasing over time.
 
 ## Features
@@ -24,5 +24,4 @@ Navigate to the project folder:
 cd Rabbit-Game
 Open index.html in your web browser.
 
-Future Improvements
-Add a leaderboard for high scores, implement power-ups, add new maze themes, and introduce touch controls for mobile play.
+
