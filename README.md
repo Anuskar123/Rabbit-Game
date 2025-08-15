@@ -1,74 +1,28 @@
-# Rabbit-Game
-Rabbit Game
-Overview
 
-Rabbit Game is a simple browser-based maze game where the player controls a rabbit navigating through dynamically generated mazes to collect points while avoiding enemies. The game features infinite level generation, randomized maze layouts, and increasing difficulty over time.
+Rabbit Game is a browser-based maze game where the player controls a rabbit navigating through randomly generated mazes to collect points while avoiding enemies. The game supports infinite levels, with difficulty increasing over time.
 
-Features
+## Features
+- Infinite maze generation with guaranteed solvable paths.
+- Randomized enemy and point placement each level.
+- Increasing difficulty as levels progress.
+- Player movement via arrow keys or WASD.
+- Enemies move randomly within the maze.
+- Score tracking across levels.
 
-Infinite maze generation with solvable paths.
+## Technologies Used
+HTML for game structure and maze rendering, CSS for styling, layout, and animations, and JavaScript for game logic, maze generation, enemy AI, and score system.
 
-Randomized enemy and point placement on each level.
+## How to Play
+Open the game in a web browser, use the Arrow Keys or WASD to move the rabbit, collect all points in the maze to unlock the next level, avoid enemies (touching them resets the game), and keep playing to achieve a high score.
 
-Increasing difficulty with each new maze.
-
-Player movement via keyboard controls.
-
-Enemies with randomized movement patterns.
-
-Score tracking across levels.
-
-Technologies Used
-
-HTML: Structure and game board rendering.
-
-CSS: Layout styling and animations.
-
-JavaScript: Game logic, maze generation, enemy AI, score handling.
-
-How to Play
-
-Open the game in a web browser.
-
-Use the Arrow Keys or WASD to move the rabbit.
-
-Collect all the points in the maze to advance to the next level.
-
-Avoid contact with enemies, or the game will reset.
-
-Continue playing to achieve the highest score possible.
-
-Installation
-
+## Installation
 Clone the repository:
-
+```bash
 git clone https://github.com/Anuskar123/Rabbit-Game.git
-
-
 Navigate to the project folder:
 
 cd Rabbit-Game
-
-
-Open index.html in your preferred browser.
-
-Project Structure
-Rabbit-Game/
-│── index.html      # Main game page
-│── style.css       # Styling and animations
-│── script.js       # Core game logic
-└── assets/         # Images, sprites, and sound effects
+Open index.html in your web browser.
 
 Future Improvements
-
-Add a leaderboard to track high scores.
-
-Introduce power-ups for temporary advantages.
-
-Implement different maze themes.
-
-Add touch controls for mobile devices.
-
-License
-
-This project is licensed under the MIT License.
+Add a leaderboard for high scores, implement power-ups, add new maze themes, and introduce touch controls for mobile play.
