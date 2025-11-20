@@ -19,9 +19,6 @@ Open the game in a web browser, use the Arrow Keys or WASD to move the rabbit, c
 Clone the repository:
 ```bash
 git clone https://github.com/Anuskar123/Rabbit-Game.git
-Navigate to the project folder:
 
-cd Rabbit-Game
-Open index.html in your web browser.
 
 
