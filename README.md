@@ -1,3 +1,6 @@
+## DEMO
+https://anuskar123.github.io/Rabbit-Game/
+
 ## Rabbit Runner 
 Rabbit Game is a browser-based maze game where the player controls a rabbit navigating through randomly generated mazes to collect points while avoiding enemies. The game supports infinite levels, with difficulty increasing over time.
 
